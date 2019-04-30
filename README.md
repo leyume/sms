@@ -1,2 +1,2 @@
-# sms
+# sms 📱
 A quick experimental project
