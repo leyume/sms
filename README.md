@@ -1,6 +1,6 @@
 # sms 📱
 
-A quick experimental project.
+A quick experimental project
 But this is not it
 ---
 
